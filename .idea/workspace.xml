@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f56513-8ea5-4b2e-8934-0f05eb048983" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChartBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Chart/ChatBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Expenses/ExpensesChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/ExpenseItem.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Expenses/Expenses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NewExpense/NewExpense.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HgssvGxfxGzv6TQMteOmgqokcy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,8 +47,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/IvanMitev/Documents/GitHub/React",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\IvanMitev\\Documents\\GitHub\\React",
     "settings.editor.selected.configurable": "watcher.settings",
@@ -45,6 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668718272805</updated>
       <workItem from="1668718274862" duration="4533000" />
+      <workItem from="1668979302647" duration="2801000" />
     </task>
     <servers />
   </component>
